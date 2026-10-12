@@ -1,0 +1,19 @@
+/* Import Tailwind's base, component, and utility layers */
+@import "tailwindcss";
+
+/*  Reset  */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Root font + overflow guard matching reference site */
+body {
+  font-family: sans-serif;
+  overflow-x: hidden;
+  background-color: #121212;
+  color: white;
+}
