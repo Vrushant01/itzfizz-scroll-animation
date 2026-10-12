@@ -7,7 +7,7 @@ An interactive, scroll-driven hero section built with React, Vite, Tailwind CSS,
 ## Live Links
 
 - **Live Demo:** [https://your-demo-url.com](https://your-demo-url.com) *(Placeholder)*
-- **GitHub Repository:** [https://github.com/your-username/your-repo-name](https://github.com/your-username/your-repo-name) *(Placeholder)*
+- **GitHub Repository:** [https://github.com/Vrushant01/itzfizz-scroll-animation](https://github.com/Vrushant01/itzfizz-scroll-animation)
 
 ---
 
@@ -47,8 +47,8 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your machine (v18+ r
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Vrushant01/itzfizz-scroll-animation.git
+   cd itzfizz-scroll-animation
    ```
 
 2. Install dependencies:
