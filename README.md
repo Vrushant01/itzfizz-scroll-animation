@@ -6,7 +6,7 @@ An interactive, scroll-driven hero section built with React, Vite, Tailwind CSS,
 
 ## Live Links
 
-- **Live Demo:** [https://your-demo-url.com](https://your-demo-url.com) *(Placeholder)*
+- **Live Demo:** [https://itzfizz-scroll-animation-sandy.vercel.app/](https://itzfizz-scroll-animation-sandy.vercel.app/)
 - **GitHub Repository:** [https://github.com/Vrushant01/itzfizz-scroll-animation](https://github.com/Vrushant01/itzfizz-scroll-animation)
 
 ---
